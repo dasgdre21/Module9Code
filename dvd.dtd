@@ -1,0 +1,17 @@
+<!ELEMENT DVDS (DVD*) >
+
+<!ELEMENT DVD (title, release_year, performers, discs, price) >
+
+<!ATTLIST DVD id CDATA #REQUIRED>
+
+<!ELEMENT title (#PCDATA)>
+
+<!ELEMENT release_year (#PCDATA)>
+
+<!ELEMENT performers (performer*)>
+
+<!ELEMENT performer (#PCDATA)>
+
+<!ELEMENT discs (#PCDATA)>
+
+<!ELEMENT price (#PCDATA)>

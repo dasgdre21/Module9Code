@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DVDS SYSTEM "dvd.dtd">
+<DVDS>
+  <DVD id="7">
+   <title>Fantastic Beasts and Where to Find Them</title>
+   <release_year>2016</release_year>
+   <performers>
+    <performer>Eddie Redmayne</performer>
+    <performer>Katherine Waterston</performer>
+    <performer>Dan Folger</performer>
+    <performer>Alison Sudol</performer>
+   </performers>
+   <discs>1</discs>
+   <price>8.99</price>
+  </DVD>
+  <DVD id="1">
+   <title>Witness</title>
+   <release_year>1985</release_year>
+   <performers> 
+    <performer>Harrison  Ford</performer>
+    <performer>Kelly  McGillis</performer>
+   </performers>
+   <discs>1</discs>
+   <price>7.99</price>
+  </DVD>
+  <DVD id="3">
+   <title>The Princess Bride</title>
+   <release_year>1987</release_year>
+   <performers>
+    <performer>Cary Elwes</performer>
+    <performer>Robin Wright</performer>
+   </performers>
+   <discs>1</discs>
+   <price>6.99</price>
+  </DVD>
+  <DVD id="5">
+   <title>Harry Potter and the Chamber of Secrets</title>
+   <release_year>2002</release_year>
+   <performers>
+    <performer>Daniel Radcliffe</performer>
+    <performer>Rupert Grint</performer>
+    <performer>Emma Watson</performer>
+   </performers>
+   <discs>1</discs>
+   <price>10.99</price>
+  </DVD>
+  <DVD id="4">
+   <title>Titanic</title>
+   <release_year>1997</release_year>
+   <performers>
+    <performer>Leonardo DiCaprio</performer>
+    <performer>Kate Winslet</performer>
+   </performers>
+   <discs>1</discs>
+   <price>9.99</price>
+  </DVD>
+  <DVD id="2">
+   <title>Star Wars Episode V - The  Empire Strikes Back</title>
+   <release_year>1980</release_year>
+   <performers>
+    <performer>Mark  Hamill</performer>
+    <performer>Harrison  Ford</performer>
+    <performer>Carrie  Fisher</performer>
+   </performers>
+   <discs>2</discs>
+   <price>14.95</price>
+  </DVD>
+  <DVD id="6">
+   <title>Harry Potter and the Goblet of Fire</title>
+   <release_year>2005</release_year>
+   <performers>
+    <performer>Daniel Radcliffe</performer>
+    <performer>Rupert Grint</performer>
+    <performer>Emma Watson</performer>
+   </performers>
+   <discs>1</discs>
+   <price>10.99</price>
+  </DVD>
+<DVD id="8">
+   <title>Jaws</title>
+   <release_year>1975</release_year>
+   <performers>
+    <performer>Roy Scheider</performer>
+    <performer>Robert Shaw</performer>
+    <performer>Richard Dreyfuss</performer>
+   </performers>
+   <discs>1</discs>
+   <price>7.99</price>
+  </DVD>
+</DVDS>
